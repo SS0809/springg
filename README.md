@@ -1,0 +1,2 @@
+curl /hello
+returns hello
